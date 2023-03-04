@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KrzysztofZawisla/portfolio-backend",
+  "author": "KrzysztofZawisla <zawislakrzysztof.zk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.111",
+    "@vendia/serverless-express": "^4.10.1",
+    "aws-lambda": "^1.0.7",
+    "dotenv": "^16.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "source-map-support": "^0.5.21",
+    "v8-compile-cache": "^2.3.0"
+  }
+}
